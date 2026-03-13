@@ -160,12 +160,12 @@ html, body {
  background-position: center center;
 }
 #landing .line-break-one {
- background: linear-gradient(60deg, ##008000, #808000, #DAA520);
+ background: linear-gradient(60deg, #008000, #808000, #DAA520);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break-two {
- background: linear-gradient(60deg, #000080;, #0000FF, #ADFF2F);
+ background: linear-gradient(60deg, #000080, #0000FF, #ADFF2F);
  width: 100%;
  margin: 0 auto;
 }
