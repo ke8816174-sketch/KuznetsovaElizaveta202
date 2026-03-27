@@ -9,8 +9,8 @@ header #headline, header #circular-bg {
 
   transform: translate(-50%, -50%);
 
-}* 
-{
+}
+* {
 
   box-sizing: border-box;
 
@@ -23,7 +23,7 @@ header #headline, header #circular-bg {
 }
 body {
 
-  background-image: url("https://raw.githack.com/ke8816174-sketch/KuznetsovaElizaveta202/refs/heads/main/2e9cd6d02c970d3345d33ab17f380dd8.jpg");
+  background-image: url("https://raw.githubusercontent.com/ke8816174-sketch/KuznetsovaElizaveta202/refs/heads/main/2e9cd6d02c970d3345d33ab17f380dd8.jpg");
 
   font-family: "Roboto", sans-serif;
 
@@ -103,7 +103,7 @@ header #brand:before {
 
   height: 60px;
 
-  background-image: url("https://raw.githack.com/ke8816174-sketch/KuznetsovaElizaveta202/refs/heads/main/2e9cd6d02c970d3345d33ab17f380dd8.jpg");
+  background-image: url("https://raw.githubusercontent.com/ke8816174-sketch/KuznetsovaElizaveta202/refs/heads/main/2e9cd6d02c970d3345d33ab17f380dd8.jpg");
 
   bottom: -10px;
 
@@ -142,9 +142,6 @@ header #headline:before {
   left: -85%;
 
 }
-
-  
-
 header #headline:after {
 
   content: "Каждый лист в этой коллекции собран вручную на высокогорных чайных плантациях Китая";
@@ -252,17 +249,11 @@ h2 {
   width: 80%;
 
 }
-
-
-
 ol, ul {
 
   padding: 0;
 
 }
-
-
-
 .top {
 
   display: flex;
@@ -276,9 +267,6 @@ ol, ul {
   top: -300px;
 
 }
-
-
-
 input,
 
 label {
@@ -307,9 +295,6 @@ label {
   transition: all 0.3s ease 0s;
 
 }
-
-
-
 .button:hover {
 
   transform: scale(1.2);
@@ -322,9 +307,6 @@ label {
   box-shadow: 0 0 10px 0 #00cc99 inset, 0 0 20px 2px #00cc99;
 
 }
-
-
-
 .button2 {
 
   background-color: #6B8E23;
@@ -345,9 +327,6 @@ label {
   height: 34px;
 
 }
-
-
-
 .switch input {
 
   opacity: 0;
@@ -380,13 +359,7 @@ label {
   transform: translate(0px, 0px);
 
   transition: 0.6s ease transform, 0.6s box-shadow;
-
-
-
 }
-
-
-
 .slider:before {
 
   position: absolute;
@@ -433,17 +406,11 @@ input:checked + .slider:before {
   transform: translateX(26px);
 
 }
-
-
-
 .slider.round {
 
   border-radius: 34px;
 
 }
-
-
-
 .slider.round:before {
 
   border-radius: 50%;
@@ -458,5 +425,4 @@ input:checked + .slider:before {
   justify-content: center;
 
   flex-wrap: wrap;
-
 }
