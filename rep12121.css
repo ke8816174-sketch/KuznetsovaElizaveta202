@@ -251,6 +251,8 @@ img {
   margin-left: 18vw;
   z-index: 1;
 }
+}
+/*параметры для десктопа*/
 @media only screen and (min-width:990px) {
   
 ul {
