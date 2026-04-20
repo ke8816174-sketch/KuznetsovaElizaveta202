@@ -99,7 +99,7 @@
 
     transition: background 0.3s ease, color 0.3s ease;
 
-    background: url('https://raw.githubusercontent.com/ke8816174-sketch/KuznetsovaElizaveta202/refs/heads/main/30800729acfbcb452314a6e60a65411e.jpg');
+    background: url('https://raw.githubusercontent.com/ke8816174-sketch/KuznetsovaElizaveta202/refs/heads/main/2c58dd19863558c6c035da73bfc87094.jpg');
 
   }
 
@@ -125,9 +125,6 @@
     pointer-events: none;
 
   }
-
-
-
   #scroll_container {
 
     position: relative;
@@ -135,13 +132,7 @@
     margin-left: -250px;
 
     z-index: 999;
-
-    
-
   }
-
-
-
   section {
 
     min-height: 100vh;
